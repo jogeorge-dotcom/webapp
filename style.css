@@ -5,13 +5,14 @@ html {
 body {
     text-align: center;
     height: 100%;
-    background: gray;
+    background: #707070;
 }
 
 h1 {
  text-align: center;
  font-size: 125px;
  font-family: 'Press Start 2P', cursive;
+ color: white;
 }
 
 .press {
@@ -21,11 +22,11 @@ h1 {
     width: 200px;
     border-radius: 50%;
     border-style: solid;
-    border-color: yellow;
+    border-color: #FFCC00;
     border-width: 5px;
     font-family: Verdana, sans-serif;
     font-size: 50px;
-    color: yellow;
+    color: #FFCC00;
 }
 
 .button {
@@ -43,12 +44,12 @@ h2 {
 
 .yes {
     height: 100%;
-    background: green;
+    background: #4CD946;
     margin: -500px;
 }
 
 .no {
     height: 100%;
-    background: red;
+    background: #FF3B30;
     margin: -500px;
 }
