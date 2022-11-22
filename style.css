@@ -41,16 +41,33 @@ h2 {
     font-size: 100px;
     margin: 500px;
     height: 100%;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .yes {
     height: 100%;
     background: #4CD946;
     margin: -500px;
+    color: white;
 }
 
 .no {
     height: 100%;
     background: #FF3B30;
     margin: -500px;
+    color: black;
+}
+
+.response-yes {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Anybody';
+    color: white;
+}
+
+.response-no {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Anybody';
+    color: black;
 }
